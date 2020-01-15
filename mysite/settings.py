@@ -25,7 +25,7 @@ SECRET_KEY = 'oko2e76+5l_+(b8m!#7g&nud3crp552nu!0d+-0-a3kz1xp1se'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'meadem.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
